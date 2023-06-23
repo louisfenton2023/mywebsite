@@ -1,0 +1,16 @@
+.content img{
+    height: 200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5;    
+    } 
+      
+    .pictures img{
+        height: 200px;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 3%;
+        
+    }

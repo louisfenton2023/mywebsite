@@ -1,0 +1,18 @@
+.PopularItems img{
+    height: 200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5%;
+    
+    } 
+      
+    .TrendingItems img{
+        height: 200px;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 6%;
+        
+    }
+    

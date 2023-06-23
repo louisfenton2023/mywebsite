@@ -1,0 +1,34 @@
+.Feedbackform{
+    Height:100px;
+    Width:auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 5%;
+}
+
+.Email{
+    Height:100px;
+    Width:auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 5%;
+}
+
+.Feedback{
+    Height:100px;
+    Width:auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 5%;
+}
+
+.WebsiteRating{
+    color: white;
+}
+
